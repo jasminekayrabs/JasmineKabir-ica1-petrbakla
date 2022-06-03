@@ -1,0 +1,1 @@
+Media files (gif, jpg, png, mov ... ) should go here
